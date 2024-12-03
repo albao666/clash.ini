@@ -8,6 +8,5 @@ DOMAIN-SUFFIX,alibaba.com,DIRECT
 DOMAIN-SUFFIX,alibaba-inc.com,DIRECT
 DOMAIN-SUFFIX,alibabacloud.com,DIRECT
 DOMAIN-SUFFIX,mmstat.com,DIRECT
-DOMAIN-SUFFIX,claude.ai,ChatGPT
-DOMAIN-SUFFIX,myvideo.net.tw,其它影音站点
-DOMAIN-SUFFIX,wetv.vip,其它影音站点
+DOMAIN-SUFFIX,claude.ai,💬 ChatGPT
+DOMAIN-SUFFIX,wetv.vip,🌎 国外媒体
