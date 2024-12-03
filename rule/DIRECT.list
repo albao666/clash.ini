@@ -1,12 +1,10 @@
-IP-CIDR,5.252.225.207/8,DIRECT
-IP-CIDR,11.164.204.0/8,DIRECT
-DOMAIN-SUFFIX,digicert-cn.com,DIRECT
-DOMAIN-SUFFIX,dingtalkapps.com,DIRECT
-DOMAIN-SUFFIX,atatech.org,DIRECT
-DOMAIN-SUFFIX,domob.cn,DIRECT
-DOMAIN-SUFFIX,alibaba.com,DIRECT
-DOMAIN-SUFFIX,alibaba-inc.com,DIRECT
-DOMAIN-SUFFIX,alibabacloud.com,DIRECT
-DOMAIN-SUFFIX,mmstat.com,DIRECT
-DOMAIN-SUFFIX,claude.ai,💬 ChatGPT
-DOMAIN-SUFFIX,wetv.vip,🌎 国外媒体
+IP-CIDR,5.252.225.207/8
+IP-CIDR,11.164.204.0/8
+DOMAIN-SUFFIX,digicert-cn.com
+DOMAIN-SUFFIX,dingtalkapps.com
+DOMAIN-SUFFIX,atatech.org
+DOMAIN-SUFFIX,domob.cn
+DOMAIN-SUFFIX,alibaba.com
+DOMAIN-SUFFIX,alibaba-inc.com
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,mmstat.com
