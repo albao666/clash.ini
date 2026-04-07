@@ -11,3 +11,4 @@ PROCESS-NAME,/Applications/Lingma.app/Contents/MacOS/Electron
 PROCESS-NAME,/Applications/Lingma.app/Contents/Frameworks/Lingma Helper.app/Contents/MacOS/Lingma Helper
 PROCESS-NAME,/Applications/Lingma.app/Contents/Frameworks/Lingma Helper (Plugin).app/Contents/MacOS/Lingma Helper (Plugin)
 PROCESS-NAME,/Applications/QoderWork.app/Contents/Frameworks/QoderWork Helper.app/Contents/MacOS/QoderWork Helper
+PROCESS-NAME,/Applications/Wukong.app/Contents/MacOS/DingTalkReal
