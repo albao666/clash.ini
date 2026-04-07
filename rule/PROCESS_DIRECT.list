@@ -1,3 +1,13 @@
 PROCESS-NAME,/Applications/AliLang.app/Contents/Resources/AliLangClient.app/Contents/MacOS/AliLangClient
 PROCESS-NAME,/Applications/iDingTalk.app/Contents/MacOS/DingTalk
 PROCESS-NAME,/Applications/AliEntSafe.app/Contents/Services/CloudShell.app/Contents/MacOS/CloudShell
+PROCESS-NAME,/Applications/AliLang.app/Contents/Frameworks/AliLang Helper.app/Contents/MacOS/AliLang Helper
+PROCESS-NAME,/Applications/QoderWork.app/Contents/Resources/bin/qodercli
+PROCESS-NAME,/opt/oneagent/common/com.alibaba.security.update
+PROCESS-NAME,/Applications/Qoder.app/Contents/Frameworks/Qoder Helper.app/Contents/MacOS/Qoder Helper
+PROCESS-NAME,/Applications/Qoder.app/Contents/Resources/app/resources/bin/aarch64_darwin/Qoder
+PROCESS-NAME,/Applications/Qoder.app/Contents/Frameworks/Qoder Helper (Plugin).app/Contents/MacOS/Qoder Helper (Plugin)
+PROCESS-NAME,/Applications/Lingma.app/Contents/MacOS/Electron
+PROCESS-NAME,/Applications/Lingma.app/Contents/Frameworks/Lingma Helper.app/Contents/MacOS/Lingma Helper
+PROCESS-NAME,/Applications/Lingma.app/Contents/Frameworks/Lingma Helper (Plugin).app/Contents/MacOS/Lingma Helper (Plugin)
+PROCESS-NAME,/Applications/QoderWork.app/Contents/Frameworks/QoderWork Helper.app/Contents/MacOS/QoderWork Helper
