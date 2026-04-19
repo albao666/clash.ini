@@ -1,0 +1,15 @@
+[Host]
+*.digicert-cn.com = server:30.30.30.30
+*.dingtalkapps.com = server:30.30.30.30
+*.atatech.org = server:30.30.30.30
+*.domob.cn = server:30.30.30.30
+*.alibaba = server:30.30.30.30
+*.taobao = server:30.30.30.30
+*.alibaba.com = server:30.30.30.30
+*.alibaba-inc.com = server:30.30.30.30
+*.alibabacloud.com = server:30.30.30.30
+*.mmstat.com = server:30.30.30.30
+*.antfin-inc.com = server:30.30.30.30
+*.antfin.com = server:30.30.30.30
+*.yuque.com = server:30.30.30.30
+*.taobao.org = server:30.30.30.30
